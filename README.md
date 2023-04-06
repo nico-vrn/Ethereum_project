@@ -39,4 +39,4 @@ Aucune configuration n'est requise pour ce projet.
 * Documentation Ethereum
 
 # Auteur
-Ce projet a été créé par [votre nom].
+Ce projet a été créé par Lefranc Nicolas en 2022.
