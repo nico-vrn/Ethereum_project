@@ -37,8 +37,8 @@ Aucune configuration n'est requise pour ce projet.
 2. Cliquez sur le bouton `sendEthButton` pour envoyer de l'ETH à une adresse Ethereum spécifiée.
 
 ## Ressources supplémentaires
-* Documentation Web3.js
-* Documentation Ethereum
+* [Documentation Web3.js](https://web3js.readthedocs.io/en/v1.8.2/)
+* [Documentation Ethereum](https://ethereum.org/fr/developers/)
 
 ## Auteur
 Ce projet a été créé par Lefranc Nicolas en 2021.
