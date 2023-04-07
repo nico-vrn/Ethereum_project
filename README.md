@@ -16,7 +16,7 @@ Le projet offre deux fonctionnalités principales :
 ## Prérequis
 Pour exécuter ce projet, vous devez disposer des éléments suivants :
 
-* Un navigateur Web prenant en charge la spécification Web3 (par exemple, Google Chrome avec l'extension MetaMask installée)
+* Un navigateur Web prenant en charge la spécification Web3 (par exemple, Google Chrome avec l'extension [Metamask](https://metamask.io/) installée)
 * Une adresse Ethereum avec des fonds pour effectuer des transactions
 
 ## Installation
